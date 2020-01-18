@@ -1,3 +1,7 @@
 Adding new file to the project
 
 Adding some more content to the new file
+
+Editing new file with some changes
+
+Some more eidting
