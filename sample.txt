@@ -5,3 +5,7 @@ Adding some more content
 Some more content
 
 Changes to demonstrate diff and merge tools
+
+Adding some more text
+
+Some more modifications
