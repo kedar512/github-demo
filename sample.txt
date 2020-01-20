@@ -1,4 +1,4 @@
-Rebase conflict test
+Rebase conflict master branch
 
 Some more content
 
