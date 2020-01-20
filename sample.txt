@@ -1,4 +1,4 @@
-Sample text file
+Sample release branch text file
 
 Adding some more content
 
