@@ -1,5 +1,4 @@
-Branch merge conflict test
-
+Rebase test
 
 Some more content
 
