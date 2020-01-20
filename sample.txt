@@ -3,3 +3,5 @@ Sample text file
 Adding some more content
 
 Some more content
+
+Changes to demonstrate diff and merge tools
