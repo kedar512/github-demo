@@ -1,4 +1,4 @@
-Sample release branch text file
+Copyright Notice
 
 Adding some more content
 
