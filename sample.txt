@@ -1,4 +1,4 @@
-Rebase conflict develop branch some more changes
+Rebase conflict pull test
 
 Some more content
 
