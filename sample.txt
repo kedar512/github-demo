@@ -1,6 +1,5 @@
-Branch merge
+Branch merge conflict test
 
-Modified for branch merge
 
 Some more content
 
