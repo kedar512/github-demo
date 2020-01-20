@@ -1,6 +1,6 @@
-New feature branch
+Branch merge
 
-Adding some more content
+Modified for branch merge
 
 Some more content
 
