@@ -6,3 +6,5 @@ Adding changes to test rebase from remote repo
 Stashing changes
 
 Multiple stash changes
+
+Tag 1.1
