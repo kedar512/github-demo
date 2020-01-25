@@ -13,3 +13,5 @@ Adding stashing changes
 Adding some more changes for untracked stash
 
 Stashing in branch
+
+Tag changes
