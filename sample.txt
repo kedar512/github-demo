@@ -7,3 +7,5 @@ Changes to demonstrate diff and merge tools
 Adding some more text
 
 Some more modifications
+
+Adding stashing changes
