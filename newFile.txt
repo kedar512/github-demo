@@ -4,3 +4,5 @@ Adding new file
 Adding changes to test rebase from remote repo
 
 Stashing changes
+
+Multiple stash changes

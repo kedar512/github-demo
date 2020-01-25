@@ -8,3 +8,5 @@ A demo repository for git training
 # Rebase, more changes
 
 # PROD fix
+
+# Stashing in branches
